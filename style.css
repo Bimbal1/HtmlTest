@@ -1,0 +1,40 @@
+body {
+	background-color: #222;
+}
+
+.zdarzenie {
+	display: inline;
+	color: #FFF;
+}
+
+ul {
+	list-style-type: none;
+	align-content: center;
+}
+
+.radio-group {
+	padding: 20px;
+	display: inline;
+}
+
+form {
+	display: inline;
+}
+
+fieldset {
+	display: inline;
+	border: none;
+}
+
+.grid-container {
+	display: inline-grid;
+	background-color: #333;
+	padding: 5px;
+	width: 25%;
+}
+
+h5 {
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: 600;
+}
